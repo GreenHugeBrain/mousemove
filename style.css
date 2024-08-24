@@ -1,0 +1,13 @@
+#move{
+    background: linear-gradient(
+        to right,
+        #ff8e8e,
+        #ff006a
+    ) ;
+    height: 300px;
+    aspect-ratio: 1;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+}
